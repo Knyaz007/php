@@ -1,0 +1,5 @@
+Subject: {{ $subject }}
+
+Message:
+
+{{ $message }}
